@@ -3,7 +3,7 @@ import React from 'react';
 function Header(Titulo) {
   return (
       <header className='fondo'>
-        <p>Encabezado</p>
+        <p>Encabezadoo</p>
       </header>
   );
 }

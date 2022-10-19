@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './Header';
+import Body from './body';
 import Footer from './Footer';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       NombrePagina="Pagina Web"
       A
     />
+    <Body/>
     <Footer/>
 
     </>
